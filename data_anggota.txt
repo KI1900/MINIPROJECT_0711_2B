@@ -1,0 +1,3 @@
+MAHASISWA#M001#Andi Saputra#Teknik Informatika
+DOSEN#D001#Budi Santoso, M.Kom.#Struktur Data
+KARYAWAN#K001#Citra Dewi#Tata Usaha
